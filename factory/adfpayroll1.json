@@ -1,0 +1,15 @@
+{
+	"name": "adfpayroll1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6291d191-f5f6-47ff-819c-45f38baacf32",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
